@@ -1,0 +1,4 @@
+﻿  Capitulo4Ejercicios.cpp
+c:\users\pc\source\repos\capitulo4\capitulo4\capitulo4ejercicios.cpp(115): warning C4566: el carácter representado por el nombre de carácter universal '\u2502' no se puede representar en la página de códigos actual (1252)
+c:\users\pc\source\repos\capitulo4\capitulo4\capitulo4ejercicios.cpp(127): warning C4566: el carácter representado por el nombre de carácter universal '\u2502' no se puede representar en la página de códigos actual (1252)
+  Capitulo4.vcxproj -> C:\Users\PC\source\repos\Capitulo4\Debug\Capitulo4.exe
